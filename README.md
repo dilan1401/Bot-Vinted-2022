@@ -1,6 +1,6 @@
 # Bot-Vinted-2022
 
-#tuto
+# Tuto
 https://youtu.be/uDLUxWiIlqQ
 
 # Command pour install le bot
